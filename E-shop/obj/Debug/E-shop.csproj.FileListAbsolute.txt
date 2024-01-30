@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\E-shop\E-shop\bin\Debug\E-shop.exe.config
+C:\Users\micha\source\repos\E-shop\E-shop\bin\Debug\E-shop.exe
+C:\Users\micha\source\repos\E-shop\E-shop\bin\Debug\E-shop.pdb
+C:\Users\micha\source\repos\E-shop\E-shop\obj\Debug\E-shop.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\E-shop\E-shop\obj\Debug\E_shop.Properties.Resources.resources
+C:\Users\micha\source\repos\E-shop\E-shop\obj\Debug\E-shop.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\E-shop\E-shop\obj\Debug\E-shop.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\E-shop\E-shop\obj\Debug\E-shop.exe
+C:\Users\micha\source\repos\E-shop\E-shop\obj\Debug\E-shop.pdb
+C:\Users\micha\source\repos\E-shop\E-shop\obj\Debug\E_shop.Form1.resources
+C:\Users\micha\source\repos\E-shop\E-shop\obj\Debug\E_shop.Form2.resources
